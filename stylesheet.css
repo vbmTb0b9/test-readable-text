@@ -12,6 +12,9 @@ html, .root {
     padding-left: 20px;
     padding-right: 20px;
   }
+  h1 {
+      font-size: 1.6rem;
+  }
 
   @media screen and (max-width: 767px) {
       .wrap {

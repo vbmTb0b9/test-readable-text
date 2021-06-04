@@ -1,10 +1,10 @@
 html, .root {
     font-size: 16px;
     line-height: 24px;
-    font-family: 'GraphikRegular';
+    font-family: 'Graphik TH';
+    font-weight: normal;
   }
   .wrap {
-    font-weight: normal;
     font-size: 1rem;
     line-height: 1.5rem;
     max-width: 1300px;
@@ -15,7 +15,21 @@ html, .root {
   h1 {
       font-size: 1.6rem;
   }
-
+ #w1 {
+     font-weight: 100;
+ }
+ #w2 {
+    font-weight: 200;
+}
+#w3 {
+    font-weight: 300;
+}
+#w4 {
+    font-weight: 400;
+}
+#w5 {
+    font-weight: 500;
+}
   @media screen and (max-width: 767px) {
       .wrap {
           margin: auto;

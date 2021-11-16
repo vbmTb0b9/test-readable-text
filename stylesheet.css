@@ -7,11 +7,21 @@ html,
     color: #fff;
 }
 
+.article.font00 {
+    font-family: 'DB Heavent';
+    font-weight: normal;
+    width: 45%;
+    display: inline-block;
+    margin-left: 24px;
+    vertical-align: top;
+}
+
 .article.font01 {
     font-family: 'Graphik TH';
     font-weight: normal;
     width: 45%;
     display: inline-block;
+    vertical-align: top;
 }
 
 .article.font02 {
@@ -20,6 +30,7 @@ html,
     width: 45%;
     display: inline-block;
     margin-left: 24px;
+    vertical-align: top;
 }
 
 .wrap {

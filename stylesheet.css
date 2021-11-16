@@ -3,6 +3,8 @@ html,
     font-size: 16px;
     line-height: 24px;
     letter-spacing: normal;
+    background: #161616;
+    color: #fff;
 }
 
 .article.font01 {

@@ -1,37 +1,60 @@
-html, .root {
+html,
+.root {
     font-size: 16px;
     line-height: 24px;
+    letter-spacing: normal;
+}
+
+.article.font01 {
     font-family: 'Graphik TH';
     font-weight: normal;
-  }
-  .wrap {
+    width: 45%;
+    display: inline-block;
+}
+
+.article.font02 {
+    font-family: 'Graphik Thai Loop';
+    font-weight: normal;
+    width: 45%;
+    display: inline-block;
+    margin-left: 24px;
+}
+
+.wrap {
     font-size: 1rem;
     line-height: 1.5rem;
     max-width: 1300px;
     margin: auto;
     padding-left: 20px;
     padding-right: 20px;
-  }
-  h1 {
-      font-size: 1.6rem;
-  }
- #w1 {
-     font-weight: 100;
- }
- #w2 {
+}
+
+h1 {
+    font-size: 1.6rem;
+}
+
+#w1 {
+    font-weight: 100;
+}
+
+#w2 {
     font-weight: 200;
 }
+
 #w3 {
     font-weight: 300;
 }
+
 #w4 {
     font-weight: 400;
 }
+
 #w5 {
     font-weight: 500;
 }
-  @media screen and (max-width: 767px) {
-      .wrap {
-          margin: auto;
-      }
-  }
+
+@media screen and (max-width: 767px) {
+    .wrap {
+        margin: auto;
+    }
+}

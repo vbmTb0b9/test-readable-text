@@ -1,11 +1,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Black.eot');
-    src: url('fonts/GraphikTH-Black.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Black.woff2') format('woff2'),
-        url('fonts/GraphikTH-Black.woff') format('woff'),
-        url('fonts/GraphikTH-Black.ttf') format('truetype'),
-        url('fonts/GraphikTH-Black.svg#GraphikTH-Black') format('svg');
+    src: url('fonts/GraphikTH-Black.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Black.woff2') format('woff2'), url('fonts/GraphikTH-Black.woff') format('woff'), url('fonts/GraphikTH-Black.ttf') format('truetype'), url('fonts/GraphikTH-Black.svg#GraphikTH-Black') format('svg');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -14,11 +10,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Light.eot');
-    src: url('fonts/GraphikTH-Light.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Light.woff2') format('woff2'),
-        url('fonts/GraphikTH-Light.woff') format('woff'),
-        url('fonts/GraphikTH-Light.ttf') format('truetype'),
-        url('fonts/GraphikTH-Light.svg#GraphikTH-Light') format('svg');
+    src: url('fonts/GraphikTH-Light.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Light.woff2') format('woff2'), url('fonts/GraphikTH-Light.woff') format('woff'), url('fonts/GraphikTH-Light.ttf') format('truetype'), url('fonts/GraphikTH-Light.svg#GraphikTH-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -27,11 +19,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Medium.eot');
-    src: url('fonts/GraphikTH-Medium.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Medium.woff2') format('woff2'),
-        url('fonts/GraphikTH-Medium.woff') format('woff'),
-        url('fonts/GraphikTH-Medium.ttf') format('truetype'),
-        url('fonts/GraphikTH-Medium.svg#GraphikTH-Medium') format('svg');
+    src: url('fonts/GraphikTH-Medium.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Medium.woff2') format('woff2'), url('fonts/GraphikTH-Medium.woff') format('woff'), url('fonts/GraphikTH-Medium.ttf') format('truetype'), url('fonts/GraphikTH-Medium.svg#GraphikTH-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -40,11 +28,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Regular.eot');
-    src: url('fonts/GraphikTH-Regular.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Regular.woff2') format('woff2'),
-        url('fonts/GraphikTH-Regular.woff') format('woff'),
-        url('fonts/GraphikTH-Regular.ttf') format('truetype'),
-        url('fonts/GraphikTH-Regular.svg#GraphikTH-Regular') format('svg');
+    src: url('fonts/GraphikTH-Regular.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Regular.woff2') format('woff2'), url('fonts/GraphikTH-Regular.woff') format('woff'), url('fonts/GraphikTH-Regular.ttf') format('truetype'), url('fonts/GraphikTH-Regular.svg#GraphikTH-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -53,11 +37,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Extralight.eot');
-    src: url('fonts/GraphikTH-Extralight.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Extralight.woff2') format('woff2'),
-        url('fonts/GraphikTH-Extralight.woff') format('woff'),
-        url('fonts/GraphikTH-Extralight.ttf') format('truetype'),
-        url('fonts/GraphikTH-Extralight.svg#GraphikTH-Extralight') format('svg');
+    src: url('fonts/GraphikTH-Extralight.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Extralight.woff2') format('woff2'), url('fonts/GraphikTH-Extralight.woff') format('woff'), url('fonts/GraphikTH-Extralight.ttf') format('truetype'), url('fonts/GraphikTH-Extralight.svg#GraphikTH-Extralight') format('svg');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -66,11 +46,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Bold.eot');
-    src: url('fonts/GraphikTH-Bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Bold.woff2') format('woff2'),
-        url('fonts/GraphikTH-Bold.woff') format('woff'),
-        url('fonts/GraphikTH-Bold.ttf') format('truetype'),
-        url('fonts/GraphikTH-Bold.svg#GraphikTH-Bold') format('svg');
+    src: url('fonts/GraphikTH-Bold.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Bold.woff2') format('woff2'), url('fonts/GraphikTH-Bold.woff') format('woff'), url('fonts/GraphikTH-Bold.ttf') format('truetype'), url('fonts/GraphikTH-Bold.svg#GraphikTH-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -79,11 +55,7 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Thin.eot');
-    src: url('fonts/GraphikTH-Thin.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Thin.woff2') format('woff2'),
-        url('fonts/GraphikTH-Thin.woff') format('woff'),
-        url('fonts/GraphikTH-Thin.ttf') format('truetype'),
-        url('fonts/GraphikTH-Thin.svg#GraphikTH-Thin') format('svg');
+    src: url('fonts/GraphikTH-Thin.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Thin.woff2') format('woff2'), url('fonts/GraphikTH-Thin.woff') format('woff'), url('fonts/GraphikTH-Thin.ttf') format('truetype'), url('fonts/GraphikTH-Thin.svg#GraphikTH-Thin') format('svg');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -92,13 +64,170 @@
 @font-face {
     font-family: 'Graphik TH';
     src: url('fonts/GraphikTH-Semibold.eot');
-    src: url('fonts/GraphikTH-Semibold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GraphikTH-Semibold.woff2') format('woff2'),
-        url('fonts/GraphikTH-Semibold.woff') format('woff'),
-        url('fonts/GraphikTH-Semibold.ttf') format('truetype'),
-        url('fonts/GraphikTH-Semibold.svg#GraphikTH-Semibold') format('svg');
+    src: url('fonts/GraphikTH-Semibold.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Semibold.woff2') format('woff2'), url('fonts/GraphikTH-Semibold.woff') format('woff'), url('fonts/GraphikTH-Semibold.ttf') format('truetype'), url('fonts/GraphikTH-Semibold.svg#GraphikTH-Semibold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Black.eot');
+    src: url('fonts/GraphikThaiLoop-Black.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Black.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Black.woff') format('woff'), url('fonts/GraphikThaiLoop-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-BlackItalic.eot');
+    src: url('fonts/GraphikThaiLoop-BlackItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-BlackItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-BlackItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Bold.eot');
+    src: url('fonts/GraphikThaiLoop-Bold.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Bold.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Bold.woff') format('woff'), url('fonts/GraphikThaiLoop-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-BoldItalic.eot');
+    src: url('fonts/GraphikThaiLoop-BoldItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-BoldItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-BoldItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Extralight.eot');
+    src: url('fonts/GraphikThaiLoop-Extralight.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Extralight.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Extralight.woff') format('woff'), url('fonts/GraphikThaiLoop-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-ExtralightIt.eot');
+    src: url('fonts/GraphikThaiLoop-ExtralightIt.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-ExtralightIt.woff2') format('woff2'), url('fonts/GraphikThaiLoop-ExtralightIt.woff') format('woff'), url('fonts/GraphikThaiLoop-ExtralightIt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Light.eot');
+    src: url('fonts/GraphikThaiLoop-Light.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Light.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Light.woff') format('woff'), url('fonts/GraphikThaiLoop-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-LightItalic.eot');
+    src: url('fonts/GraphikThaiLoop-LightItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-LightItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-LightItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-RegularItalic.eot');
+    src: url('fonts/GraphikThaiLoop-RegularItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-RegularItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-RegularItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Medium.eot');
+    src: url('fonts/GraphikThaiLoop-Medium.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Medium.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Medium.woff') format('woff'), url('fonts/GraphikThaiLoop-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-MediumItalic.eot');
+    src: url('fonts/GraphikThaiLoop-MediumItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-MediumItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-MediumItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Regular.eot');
+    src: url('fonts/GraphikThaiLoop-Regular.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Regular.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Regular.woff') format('woff'), url('fonts/GraphikThaiLoop-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Semibold.eot');
+    src: url('fonts/GraphikThaiLoop-Semibold.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Semibold.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Semibold.woff') format('woff'), url('fonts/GraphikThaiLoop-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Thin.eot');
+    src: url('fonts/GraphikThaiLoop-Thin.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Thin.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Thin.woff') format('woff'), url('fonts/GraphikThaiLoop-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-Super.eot');
+    src: url('fonts/GraphikThaiLoop-Super.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Super.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Super.woff') format('woff'), url('fonts/GraphikThaiLoop-Super.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-ThinItalic.eot');
+    src: url('fonts/GraphikThaiLoop-ThinItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-ThinItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-ThinItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-SuperItalic.eot');
+    src: url('fonts/GraphikThaiLoop-SuperItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-SuperItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-SuperItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-SuperItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Graphik Thai Loop';
+    src: url('fonts/GraphikThaiLoop-SemiboldItalic.eot');
+    src: url('fonts/GraphikThaiLoop-SemiboldItalic.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-SemiboldItalic.woff2') format('woff2'), url('fonts/GraphikThaiLoop-SemiboldItalic.woff') format('woff'), url('fonts/GraphikThaiLoop-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}

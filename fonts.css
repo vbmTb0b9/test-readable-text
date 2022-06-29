@@ -63,8 +63,8 @@
 
 @font-face {
     font-family: 'Graphik TH';
-    src: url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikTH-Semibold.eot');
-    src: url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikTH-Semibold.eot?#iefix') format('embedded-opentype'), url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikTH-Semibold.woff2') format('woff2'), url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikTH-Semibold.woff') format('woff'), url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikTH-Semibold.ttf') format('truetype'), url('fonts/GraphikTH-Semibold.svg#GraphikTH-Semibold') format('svg');
+    src: url('fonts/GraphikTH-Semibold.eot');
+    src: url('fonts/GraphikTH-Semibold.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikTH-Semibold.woff2') format('woff2'), url('fonts/GraphikTH-Semibold.woff') format('woff'), url('fonts/GraphikTH-Semibold.ttf') format('truetype'), url('fonts/GraphikTH-Semibold.svg#GraphikTH-Semibold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -180,8 +180,8 @@
 
 @font-face {
     font-family: 'Graphik Thai Loop';
-    src: url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikThaiLoop-Semibold.eot');
-    src: url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikThaiLoop-Semibold.eot') format('embedded-opentype'), url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikThaiLoop-Semibold.woff2') format('woff2'), url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikThaiLoop-Semibold.woff') format('woff'), url('https://github.com/vbmTb0b9/test-readable-text/blob/main/fonts/GraphikThaiLoop-Semibold.ttf') format('truetype');
+    src: url('fonts/GraphikThaiLoop-Semibold.eot');
+    src: url('fonts/GraphikThaiLoop-Semibold.eot?#iefix') format('embedded-opentype'), url('fonts/GraphikThaiLoop-Semibold.woff2') format('woff2'), url('fonts/GraphikThaiLoop-Semibold.woff') format('woff'), url('fonts/GraphikThaiLoop-Semibold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
